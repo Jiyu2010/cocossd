@@ -1,0 +1,19 @@
+body{
+    font-family: cursive;
+}
+
+h1{
+    font-size: 60px;
+    font-family: cursive;
+    border: dashed black;
+    color: black;
+    font-weight: 1000;
+}
+a{
+    font-size: 30px;
+    font-family: cursive;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    background-size: 25px;
+}
